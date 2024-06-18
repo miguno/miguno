@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a solo entrepreneur based in Europe, unfortunately distracted by the temptations of coding for pleasure. I am an author and contributor to open source projects as well as a committer at the Apache Software Foundation. There's a good chance that aspects of your daily life are powered by the backend software I worked on in my past career.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguno&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="miguno's github stats" />
 
 <!--
