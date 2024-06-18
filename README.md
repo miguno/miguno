@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguno&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="miguno's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguno&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="miguno's github stats" />
 
 <!--
 **miguno/miguno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
