@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a solo entrepreneur based in Europe, unfortunately distracted by the temptations of coding for pleasure. I am an author and contributor to open source projects as well as a committer at the [Apache Software Foundation](https://www.apache.org/).
+I am a solo entrepreneur based in Europe, and also an author and contributor to open source projects as well as a committer at the [Apache Software Foundation](https://www.apache.org/).
 
 Previously, I joined [Confluent](https://www.confluent.io/) in 2015 as their first product manager, and helped build and grow their product and culture over six years, from eight employees all the way to 2,400. 
 
