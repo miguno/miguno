@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-I am a solo entrepreneur based in Europe, and also an author and contributor to open source projects as well as a committer at the [Apache Software Foundation](https://www.apache.org/).
+I am a solo entrepreneur based in Europe. I am also an author and contributor of
+open source projects, and a committer at the [Apache Software
+Foundation](https://www.apache.org/).
 
-Previously, I joined [Confluent](https://www.confluent.io/) in 2015 as their first product manager, and helped build and grow their product and culture over six years, from eight employees all the way to 2,400. 
+Previously, I joined [Confluent](https://www.confluent.io/) in 2015 as their
+first product manager, and helped build and grow their products and culture over
+six years, from eight employees all the way to 2,400. This was an unexpected
+journey and inspiring, but the time came to move on. And so, I've set out toward
+something new, with a focus on people and less emphasis on software.
+
+> “It’s a dangerous business, Frodo, going out your door. You step onto the
+> road, and if you don’t keep your feet, there’s no knowing where you might be
+> swept off to.” — J.R.R. Tolkien, The Fellowship of the Ring, 1954
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguno&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="miguno's github stats" />
 
