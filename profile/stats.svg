@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">miguno's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1602, Total Commits  (last year) : 297, Total PRs: 230, Total Issues: 167, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 1604, Total Commits  (last year) : 297, Total PRs: 230, Total Issues: 167, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 27.65561157124246;
+        stroke-dashoffset: 27.652545564844594;
       }
     }
   
